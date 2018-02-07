@@ -160,3 +160,58 @@ lang:
         sww: هناك خطأ ما
         pagenotfound: "الصفحة التي تبحث عنها<br> لا يمكن العثور عليها."
         gth: عودة إلى الرئيسية؟
+
+ ro:
+        # header
+        home: Acasă
+        about: Despre
+        downloads: TWRP Builder Downloads
+        
+        # footer
+        followus: Urmăriți-ne
+        pageupdate: Ultima actualizare a acestei pagini a fost pe  
+        locale: Locale
+        unsupporteddevicesinformation: Informații despre dispozitivele fără suport
+        
+        # index
+        slogan: Official site of the  Site-ul oficial al TWRP Builder Project
+        checkgithub: Consultați arhivele noastre pe GitHub
+        projectos: Proiectul nostru este open-source!
+        visit: Vizitați
+        checkxda: Check out our thread on XDA Developers. Aruncați o privire peste thread-ul de pe XDA Developers
+        askonxda: Aveți întrebări? Întrebați-ne pe XDA
+        dlta: Descărcați aplicația
+        needlatest: Aveți nevoie de ultima versiune? O puteți descărca de aici!
+        download: Download
+        contributors: Contribuitori
+        contributingtoproject: Persoanele care contribuie la proiect
+        about: Despre
+        aboutdesc: TWRP Builder este un proiect care țintește spre creerea unui Team Win Recovery Project (TWRP) pentru deviceurile care încă nu au propriul suport din partea TWRP. <br><br> Prin proiectul nostru, veți avea TWRP pentru device-ul vostru! Descărcați aplicația noastră, creați-vă un cont, încărcați fișierele necesare din device-ul vostru și așteptați! Atunci când imaginea TWRP va fi gata pentru device-ul vostru, veți primi o notificare!
+        dlnow: Descarcă acum!
+        
+        # TWRP Builder Download
+        hint: "Sfat: Folosește ```CTRL```+```F``` și scrie-ți numele device-ului/numele de cod"
+        brand: Brand-ul
+        model: Modelul
+        codename: Numele de cod
+        dateadded: Data adăugării/actualizării
+        downloadlink: Link-ul de descărcare
+        clicktoredirect: "<a id='download' class='button special'>Click aici</a> pentru redirecționare în cazul în care aceasta nu se face automat."
+        copyright: "<p style='position: absolute; bottom: 0; left: 10'><em>&copy; TWRP Builder |	 <a href='/'>Mergi la pagina de start.</a></em></p>"
+        
+        # unsupported_devices
+        ud_content: "
+        Chiar daca suntem experimentați, nu este atât de ușor să ne ocupăm de device-uri pe care nu le avem. Din nefericire, există criterii specifice care indică tipul de dispozitive pe care nu le putem sprijini.
+
+        Consultați criteriile pentru dispozitivele neacceptate de mai jos:
+        
+        * MT65xx chipsets
+        
+        * Device-uri care au mai puțin de 12 <em>megabytes</em> în partiția recovery"
+        
+        # 404.md
+        error404: ERROR 404
+        sww: Ceva n-a mers bine
+        pagenotfound: "Pagina pe care o căutați<br> nu a putut fi găsită."
+        gth: Mergeți acasă?
+        
